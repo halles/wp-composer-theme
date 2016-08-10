@@ -1,0 +1,13 @@
+{
+  "name": "halles/wp-composer-theme",
+  "authors": [
+    {
+      "name": "Matias Halles",
+      "email": "matias.halles@wikot.com"
+    }
+  ],
+  "type"    : "wordpress-theme",
+  "require" : {
+    "composer/installers": "~1.0"
+  }
+}
